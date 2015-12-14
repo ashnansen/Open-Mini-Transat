@@ -40,6 +40,9 @@ Bud what file type shoot wee use for CAD design?
 
 Links.
 _________
+
 https://en.wikipedia.org/wiki/Open-source_hardware
+
 https://en.wikipedia.org/wiki/Mini_Transat_6.50
+
 http://www.classemini.com/modules/kameleon/upload/2015_-_OFFICIAL_TEXTS_-_MINI_RULES_%28J_AND_S%29.pdf
