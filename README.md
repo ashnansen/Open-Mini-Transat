@@ -35,11 +35,11 @@ To get the project on the road the first ting is to define the languages and mea
 
 The languages is English, the units of measurement is IS units. (ISO 31) and drawings is ISO 128.
 
-Bud what file type shoot wee use for CAD design? 
-
+Do to the open design the design files are made in Freecad. 
 
 Links.
 _________
+Freecadweb.org
 
 https://en.wikipedia.org/wiki/Open-source_hardware
 
